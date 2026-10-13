@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PanelCtrl</string>
+    <string name="acc_desc">Runs commands sent from the ESP32 panel controller.</string>
+</resources>
